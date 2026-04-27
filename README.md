@@ -14,4 +14,7 @@ This three-part training focuses on an overview of GRACE/GRACE-FO data, OPERA-DI
 
 
 
+
+
+
 ![Project Screenshot](image/ARSET-Groundwater2026-th.png)
