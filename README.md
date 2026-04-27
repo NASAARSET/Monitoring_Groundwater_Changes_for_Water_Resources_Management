@@ -2,9 +2,7 @@
 
 ## [Training Page](https://www.earthdata.nasa.gov/learn/trainings/monitoring-groundwater-changes-water-resources-management)
 
-### Notebooks and Data:
-
-### All Python Notebooks and Data for Exercises & Homework is can be found in the Data directory.
+### All Python Notebooks and Data for Exercises & Homework can be found in the [Data](/data/) directory.
 
 Groundwater is a vital resource, especially in arid regions where surface water is limited. The U.S. Geological Survey (USGS) reports approximately 82 billion gallons of groundwater are withdrawn daily in the U.S. for domestic, irrigation, industrial, mining, thermoelectric, livestock, and aquaculture uses. 
 
