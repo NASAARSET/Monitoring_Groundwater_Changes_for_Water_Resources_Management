@@ -2,7 +2,11 @@
 
 ## [Training Page](https://www.earthdata.nasa.gov/learn/trainings/monitoring-groundwater-changes-water-resources-management)
 
-### Notebooks and Data for Homework:
+### Notebooks and Data:
+
+[Python Notebook - Displacement - 2019-2022](/data/OPERA-DISP-S1_CenValley_DSC 2019--2022.ipynb)
+[Python Notebook - Displacement - 2022-2024](/data/OPERA-DISP-S1_CenValley_DSC 2022--2024.ipynb)
+[Data - Homework - Exercise 3](/data/Exercise_3_Data.tif)
 
 Groundwater is a vital resource, especially in arid regions where surface water is limited. The U.S. Geological Survey (USGS) reports approximately 82 billion gallons of groundwater are withdrawn daily in the U.S. for domestic, irrigation, industrial, mining, thermoelectric, livestock, and aquaculture uses. 
 
