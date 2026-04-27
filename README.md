@@ -1,13 +1,8 @@
-# Template
+# Monitoring Groundwater Changes for Water Resources Management
 
-## This is a template repository created by Justin Fain to better standardize the layout of ARSET repositories.
+## [Training Page](https://www.earthdata.nasa.gov/learn/trainings/monitoring-groundwater-changes-water-resources-management)
 
-> [!WARNING]
-> If you are pushing an existing local repository you don't need to worry about any of this. Simply force push on your first commit and/or delete/modify any of the template files as you please. See the rest of this readme for a definition of the other files in the template.
-
-***
-
-### For new users:
+### Notebooks and Data for Homework:
 
 The top-level directory where this readme is located contains OS-specific .gitignore files to be used as needed as well as one general-purpose default.gitignore which can be used to protect some of the subdirectory contents from getting pushed to the public repo from your local copy.
 
