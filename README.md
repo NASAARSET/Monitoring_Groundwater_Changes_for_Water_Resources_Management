@@ -12,4 +12,6 @@ There are, however, groundwater products with higher spatial resolutions that ca
 
 This three-part training focuses on an overview of GRACE/GRACE-FO data, OPERA-DISP data, and GLDAS groundwater data for assessing seasonal to interannual groundwater changes at various spatial scales. The training provides hands-on experience in accessing and analyzing these products for applications.
 
+
+
 ![Project Screenshot](image/ARSET-Groundwater2026-th.png)
